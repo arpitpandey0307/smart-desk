@@ -18,7 +18,6 @@
 <br/>
 
 <!-- Replace this with your actual project banner/screenshot -->
-![SmartDesk Banner](./assets/banner.png)
 
 </div>
 
