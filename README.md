@@ -72,7 +72,7 @@ SmartDesk handles the entire workflow **automatically** — no manual input acro
 
 ## 🎥 Live Demo
 
-🔗 **Deployed URL:** `https://smartdesk-agent-xxxx-uc.a.run.app`
+🔗 **Deployed URL:** `https://smartdesk-agent-456703325610.us-central1.run.app`
 
 <!-- Replace with actual demo GIF -->
 ![SmartDesk Demo](./assets/demo.gif)
