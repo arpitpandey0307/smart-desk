@@ -417,12 +417,10 @@ Content-Type: application/json
 <div align="center">
 
 | ADK Web UI | Agent Trace | Database Logs |
-|-----------|-------------|---------------|
-| ![UI](./assets/screenshot-ui.png) | ![Trace](./assets/screenshot-trace.png) | ![DB](./assets/screenshot-db.png) |
+|:-----------:|:-----------:|:--------------:|
+| <img src="./assets/Screenshot%202026-04-06%20133902.png" width="280" alt="ADK Web UI"/> | <img src="./assets/Screenshot%202026-04-06%20133910.png" width="280" alt="Agent Trace"/> | <img src="./assets/Screenshot%202026-04-06%20133928.png" width="280" alt="Database Logs"/> |
 
 </div>
-
-> 📌 **Add your screenshots** to the `assets/` folder and update the paths above.
 
 ---
 
